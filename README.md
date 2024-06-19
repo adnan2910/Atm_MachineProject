@@ -5,5 +5,6 @@
  - Oop's method like:
    - Class
    - object
+   - Method
    - Inheritance
      - Multi-level type of inheritance use in this project.
